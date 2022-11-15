@@ -1,0 +1,22 @@
+{
+  "name": "healthy_food",
+  "version": "1.0.0",
+  "description": "Тренировочный проект для изучения основ java script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/props98/HealthyFood-Practic-JS.git"
+  },
+  "author": "Max Local",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/props98/HealthyFood-Practic-JS/issues"
+  },
+  "homepage": "https://github.com/props98/HealthyFood-Practic-JS#readme",
+  "devDependencies": {
+    "json-server": "^0.17.1"
+  }
+}
